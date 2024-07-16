@@ -1,2 +1,2 @@
-# Polis-Uber.io
+# Polis Uber
 [Polis Uber](https://rpubs.com/LynnChang/Polis_Uber)
