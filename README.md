@@ -7,5 +7,5 @@ CompDem (2018). URL [https://compdemocracy.org/](https://compdemocracy.org/). Da
 - participant-votes.csv: 參與者投票資料
 - 197句子分數.csv: 人工給予投票分數
 
-# 研究報告
+# 部分結果程式碼
 [Polis Uber](https://rpubs.com/LynnChang/Polis_Uber)
